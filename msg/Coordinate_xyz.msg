@@ -1,0 +1,14 @@
+string frame_id
+float64 x
+float64 y
+float64 z
+float64 world_x
+float64 world_y
+float64 world_z
+float32 quaternion_x
+float32 quaternion_y
+float32 quaternion_z
+float32 quaternion_w
+float32 xy_angle_deg
+float32 xy_angle_radian
+bool data_enable
